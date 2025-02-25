@@ -9,7 +9,7 @@ An AI-powered tool that converts webpage content into concise voice summaries, m
 - Works via a simple Chrome extension
 
 ### Proposed Tech Stack
-- Backend: FastAPI, Python, Transformers (BART)
+- Backend: FastAPI, Python, Transformers (distilBART)
 - Web Scraping: BeautifulSoup
 - Text-to-Speech: Google TTS (gTTS)
 - Frontend: JavaScript (Chrome Extension)
